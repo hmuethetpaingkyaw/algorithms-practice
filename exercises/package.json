@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest steps/test.js --watch"
+    "test": "jest sorting/test.js --watch"
   },
   "jest": {
     "testEnvironment": "node"
